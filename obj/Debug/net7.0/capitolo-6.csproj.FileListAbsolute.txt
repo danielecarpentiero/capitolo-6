@@ -1,0 +1,14 @@
+/Users/daniele/Downloads/C#/capitolo-6/bin/Debug/net7.0/capitolo-6
+/Users/daniele/Downloads/C#/capitolo-6/bin/Debug/net7.0/capitolo-6.deps.json
+/Users/daniele/Downloads/C#/capitolo-6/bin/Debug/net7.0/capitolo-6.runtimeconfig.json
+/Users/daniele/Downloads/C#/capitolo-6/bin/Debug/net7.0/capitolo-6.dll
+/Users/daniele/Downloads/C#/capitolo-6/bin/Debug/net7.0/capitolo-6.pdb
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.AssemblyInfoInputs.cache
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.AssemblyInfo.cs
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.csproj.CoreCompileInputs.cache
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.dll
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/refint/capitolo-6.dll
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.pdb
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/capitolo-6.genruntimeconfig.cache
+/Users/daniele/Downloads/C#/capitolo-6/obj/Debug/net7.0/ref/capitolo-6.dll
